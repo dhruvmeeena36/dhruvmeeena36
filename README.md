@@ -15,14 +15,14 @@
 
 <img align="right" alt="Coding" height="270" width="300" src="https://user-images.githubusercontent.com/99413629/212356179-72d0d750-710a-4077-8c79-34b55d6eb954.gif">
 
-### 👨‍💻 About Me
-
-- 🌍 I'm based in India  
-- 🖥️ See my portfolio at: [My Portfolio](https://dhruv-portfolio-peach.vercel.app/)  
-- ✉️ You can contact me at: [dhruvmeena2981@gmail.com](mailto:dhruvmeena2981@gmail.com)  
-- 🧠 I'm learning **Data Science**  
-- 🤝 I'm open to internships in **Web Development** related profiles  
-- 😄 I write code that sometimes works and often surprises me — in both good and mysterious ways!
+👨‍💻 About Me
+🌍 I'm based in India
+🖥️ See my portfolio at: My Portfolio
+✉️ You can contact me at: dhruvmeena2981@gmail.com
+🧠 I'm learning Data Science
+🤝 I'm open to internships in Web Development related profiles
+🧧 Co-founded Aapka Toufa – a handmade gifting startup crafting personalized gifts: aapkatoufa.com
+😄 I write code that sometimes works and often surprises me — in both good and mysterious ways!
 
 ---
 
