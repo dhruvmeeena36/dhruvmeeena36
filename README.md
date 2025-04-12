@@ -33,9 +33,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
   </a>
   &nbsp;
-  <a href="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="40" width="40" />
-  </a>
   &nbsp;
   <a href="mailto:dhruvmeena2981@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
