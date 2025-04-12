@@ -52,9 +52,6 @@
 
 <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,react,nextjs,nodejs,express,tailwind,git,mongodb,vscode" />
 
-Pandas • NumPy • Scikit-learn • Matplotlib • Razorpay API  
-Leadership • Team Management • Strategic Thinking
-
 ---
 
 <div align="center">
@@ -66,4 +63,5 @@ Leadership • Team Management • Strategic Thinking
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99413629/212357396-fe1a483f-6269-43ea-bfe9-06099f7c0c87.svg" alt="wave svg" />
 </p>
+
 
