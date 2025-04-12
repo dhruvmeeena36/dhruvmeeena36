@@ -50,21 +50,9 @@
 
 ### 🛠 Tech Stack & Tools
 
-#### 👨‍💻 Programming Languages  
-<img src="https://skillicons.dev/icons?i=js,python,cpp" />
+<img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,react,nextjs,nodejs,express,tailwind,git,mongodb,vscode" />
 
-#### 💡 Web Development  
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind" />
-
-#### 📊 Data Science & Machine Learning  
-<img src="https://skillicons.dev/icons?i=python" />  
-Pandas • NumPy • Scikit-learn • Matplotlib
-
-#### 📌 Tools & Frameworks  
-<img src="https://skillicons.dev/icons?i=git,mongodb,vscode" />  
-Razorpay API
-
-#### ⚡ Soft Skills  
+Pandas • NumPy • Scikit-learn • Matplotlib • Razorpay API  
 Leadership • Team Management • Strategic Thinking
 
 ---
