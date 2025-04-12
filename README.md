@@ -17,11 +17,12 @@
 
 ### 👨‍💻 About Me
 
-- 🌍 Based in India  
-- 🎓 Pursuing B.Tech in Aerospace Engineering @ IIT Madras  
-- 🧠 Currently exploring **Next.js**, **Three.js**, and advanced **ML/DL**  
-- 🛠️ Building cool projects like portfolio sites, ML models, and full-stack apps  
-- 🎥 I also run a [YouTube Channel](https://www.youtube.com/@DhruvIITMadras/videos) where I share coding, tech, and IIT life!
+- 🌍 I'm based in India  
+- 🖥️ See my portfolio at: [My Portfolio](https://dhruv-portfolio-peach.vercel.app/)  
+- ✉️ You can contact me at: [dhruvmeena2981@gmail.com](mailto:dhruvmeena2981@gmail.com)  
+- 🧠 I'm learning **Data Science**  
+- 🤝 I'm open to internships in **Web Development** related profiles  
+- 😄 I write code that sometimes works and often surprises me — in both good and mysterious ways!
 
 ---
 
