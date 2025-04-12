@@ -34,11 +34,11 @@
   </a>
   &nbsp;
   <a href="https://www.youtube.com/@DhruvIITMadras/videos" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Youtube%28amin%29.png" alt="YouTube" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="40" width="40" />
   </a>
   &nbsp;
   <a href="mailto:dhruvmeena2981@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
   </a>
   &nbsp;
   <a href="https://github.com/dhruvmeeena36" target="_blank">
@@ -63,5 +63,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99413629/212357396-fe1a483f-6269-43ea-bfe9-06099f7c0c87.svg" alt="wave svg" />
 </p>
+
 
 
