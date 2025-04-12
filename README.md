@@ -1,16 +1,67 @@
-## Hi there 👋
+<img align="center" src="https://user-images.githubusercontent.com/99413629/212354977-f1982553-e8c9-4fd8-8605-b06907901eec.gif">
 
-<!--
-**dhruvmeeena36/dhruvmeeena36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">     
+  <img src="https://komarev.com/ghpvc/?username=dhruvmeeena36&color=219ebc&style=flat" alt="profile views"/>
+  <br><br>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhruv+Meena!" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">An Aerospace Engineering undergrad, Full-Stack Developer, and lifelong learner from IIT Madras 🚀</h3>
+
+<img align="right" alt="Coding" height="270" width="300" src="https://user-images.githubusercontent.com/99413629/212356179-72d0d750-710a-4077-8c79-34b55d6eb954.gif">
+
+### 👨‍💻 About Me
+
+- 🌍 Based in India  
+- 🎓 Pursuing B.Tech in Aerospace Engineering @ IIT Madras  
+- 🧠 Currently exploring **Next.js**, **Three.js**, and advanced **ML/DL**  
+- 🛠️ Building cool projects like portfolio sites, ML models, and full-stack apps  
+- 🎥 I also run a [YouTube Channel](https://www.youtube.com/@DhruvIITMadras/videos) where I share coding, tech, and IIT life!
+
+---
+
+### 💬 Connect With Me:
+
+<p align="left">  
+  <a href="https://www.linkedin.com/in/dhruvmeena" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@DhruvIITMadras/videos" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="40" width="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:dhruvmeena2981@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/dhruvmeeena36" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
+  </a>
+</p>
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,nodejs,express,mongodb,mysql,git,github,python,cpp,vercel,vscode,figma&perline=10" />
+</div> 
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&size=30&color=CBC0D3&background=1982C400&center=true&lines=%E2%9A%A1%EF%B8%8FKeep+Learning%2C+Keep+Building!%E2%9A%A1%EF%B8%8F;%E2%9D%A4%EF%B8%8F+Have+a+great+day!+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99413629/212357396-fe1a483f-6269-43ea-bfe9-06099f7c0c87.svg" alt="wave svg" />
+</p>
+
