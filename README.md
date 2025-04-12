@@ -34,11 +34,11 @@
   </a>
   &nbsp;
   <a href="https://www.youtube.com/@DhruvIITMadras/videos" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="40" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Youtube%28amin%29.png" alt="YouTube" height="40" width="40" />
   </a>
   &nbsp;
   <a href="mailto:dhruvmeena2981@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" />
   </a>
   &nbsp;
   <a href="https://github.com/dhruvmeeena36" target="_blank">
@@ -48,11 +48,24 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🛠 Tech Stack & Tools
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,nodejs,express,mongodb,mysql,git,github,python,cpp,vercel,vscode,figma&perline=10" />
-</div> 
+#### 👨‍💻 Programming Languages  
+<img src="https://skillicons.dev/icons?i=js,python,cpp" />
+
+#### 💡 Web Development  
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind" />
+
+#### 📊 Data Science & Machine Learning  
+<img src="https://skillicons.dev/icons?i=python" />  
+Pandas • NumPy • Scikit-learn • Matplotlib
+
+#### 📌 Tools & Frameworks  
+<img src="https://skillicons.dev/icons?i=git,mongodb,vscode" />  
+Razorpay API
+
+#### ⚡ Soft Skills  
+Leadership • Team Management • Strategic Thinking
 
 ---
 
