@@ -33,7 +33,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/@DhruvIITMadras/videos](https://www.google.com/imgres?q=https%20%2F%2Fwww.youtube%20image&imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F04%2F74%2F05%2F94%2F360_F_474059464_qldYuzxaUWEwNTtYBJ44VN89ARuFktHW.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dyoutube%2Blogo&docid=FAm_Nl1wDEj7BM&tbnid=tojHF_6jZKHqnM&vet=12ahUKEwij0vPF3NGMAxXhe2wGHbe-EywQM3oECGUQAA..i&w=451&h=360&hcb=2&ved=2ahUKEwij0vPF3NGMAxXhe2wGHbe-EywQM3oECGUQAA" target="_blank">
+  <a href="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" target="_blank">
     <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="40" width="40" />
   </a>
   &nbsp;
