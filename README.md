@@ -30,16 +30,15 @@
 
 <p align="left">  
   <a href="https://www.linkedin.com/in/dhruvmeena" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
   &nbsp;
-  &nbsp;
   <a href="mailto:dhruvmeena2981@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="40" width="40"/>
   </a>
   &nbsp;
   <a href="https://github.com/dhruvmeeena36" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" width="40"/>
   </a>
 </p>
 
