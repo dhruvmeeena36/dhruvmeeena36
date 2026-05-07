@@ -17,13 +17,16 @@
 
 ### 👨‍💻 About Me
 
-- 🌍 I'm based in India
-- 🧧 Co-founded Aapka Toufa – a handmade gifting startup crafting personalized gifts: [AapkaToufa.in](https://aapkatoufa.in)  
-- 🖥️ See my portfolio at: [My Portfolio](https://dhruv-portfolio-peach.vercel.app/)  
-- ✉️ You can contact me at: [dhruvmeena2981@gmail.com](mailto:dhruvmeena2981@gmail.com)  
-- 🧠 I'm learning Data Science  
-- 🤝 I'm open to internships in Web Development related profiles  
-- 😄 I write code that sometimes works and often surprises me — in both good and mysterious ways!
+🌍 I'm based in India
+🎓 Final-year Aerospace Engineering student at Indian Institute of Technology Madras with a strong passion for Full Stack Development
+💻 Skilled in React, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, and Redis
+🧧 Co-founded Aapka Toufa
+ — a handmade gifting startup focused on personalized gifts
+🖥️ Check out my portfolio: My Portfolio
+✉️ Reach me at:
+⚙️ Interested in scalable backend systems, system design, and building production-ready applications
+💼 Open to Full Stack Developer and Software Engineer roles
+⚡ I build projects that usually solve problems and occasionally create new ones too 😄
 
 
 ---
