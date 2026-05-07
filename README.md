@@ -17,9 +17,9 @@
 
 ### 👨‍💻 About Me
 
-🌍 I'm based in India
-🎓 Final-year Aerospace Engineering student at Indian Institute of Technology Madras with a strong passion for Full Stack Development
-💻 Skilled in React, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, and Redis
+- 🌍 I'm based in India
+- 🎓 Final-year Aerospace Engineering student at Indian Institute of Technology Madras with a strong passion for Full Stack Development
+- 💻 Skilled in React, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, and Redis
 🧧 Co-founded Aapka Toufa
  — a handmade gifting startup focused on personalized gifts
 🖥️ Check out my portfolio: My Portfolio
